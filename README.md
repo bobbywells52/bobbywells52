@@ -8,7 +8,7 @@ I'm Bobby, a computer and data scienticst with a passion for public interest tec
 
 ## Check out my personal projects:
 - ### 🏀 [Check My Parlay](https://check-my-parlay.herokuapp.com/) 📊
-:Check My Parlay is a full stack webapp that uses machine learning to predcit safe basketball bets and display data for the day's games with an interactive, user-facing dashboard.
+: Check My Parlay is a full stack webapp that uses machine learning to predcit safe basketball bets and display data for the day's games with an interactive, user-facing dashboard.
 
 <!---
 bobbywells52/bobbywells52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
