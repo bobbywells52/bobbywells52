@@ -7,7 +7,7 @@ Check out my previous public facing work as a:
 - 🚸 [Developer with the NMFTA](https://github.com/hliu12/nmfta-code-for-good)
 
 Check out my personal projects here:
-- 📊 [Check My Parlay](https://check-my-parlay.herokuapp.com/)🏀
+-🏀[Check My Parlay](https://check-my-parlay.herokuapp.com/) - a full stack webapp that predicts safe basketball bets with an interactive, user-facing dashboard.
 
 <!---
 bobbywells52/bobbywells52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
