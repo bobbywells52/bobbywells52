@@ -7,7 +7,7 @@ I'm Bobby, a computer and data scienticst with a passion for public interest tec
 - 🚸 [Developer with the NMFTA](https://github.com/hliu12/nmfta-code-for-good)
 
 ## Check out my personal projects:
-###🏀[Check My Parlay](https://check-my-parlay.herokuapp.com/) 
+### 🏀[Check My Parlay](https://check-my-parlay.herokuapp.com/) 
 Check My Parlay is a full stack webapp that predicts safe basketball bets with an interactive, user-facing dashboard.
 
 <!---
