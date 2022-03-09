@@ -1,6 +1,6 @@
 # Hello 👨‍💻 🌎 👋
 
-## I'm Bobby, a computer and data scienticst with a passion for public interest tech! With a strong academic and professional background in mathematics and programing, I'm more than comfortable working on both the data and the engineering side of the coin. 
+I'm Bobby, a computer and data scienticst with a passion for public interest tech! With a strong academic and professional background in mathematics and programing, I'm more than comfortable working on both the data and the engineering side of the coin. 
 
 ### Check out my previous public facing work as a:
 #### 🇺🇸 [Data Science Fellow at the US Census Bureau](https://github.com/codingitforward/cdfdemoday2021/blob/main/Bobby_Wells_Katie_Harris.pdf)
