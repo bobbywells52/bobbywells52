@@ -6,8 +6,8 @@ I'm Bobby, a computer and data scienticst with a passion for public interest tec
 #### 🇺🇸 [Data Science Fellow at the US Census Bureau](https://github.com/codingitforward/cdfdemoday2021/blob/main/Bobby_Wells_Katie_Harris.pdf)
 #### 🚸 [Developer with the NMFTA](https://github.com/hliu12/nmfta-code-for-good)
 
-## Check out my personal projects:
-### 🏀 [Check My Parlay](https://check-my-parlay.herokuapp.com/) 📊
+### Check out my personal projects:
+#### 🏀 [Check My Parlay](https://check-my-parlay.herokuapp.com/) 📊
 - Check My Parlay is a full stack webapp that uses machine learning to predcit safe basketball bets and display data for the day's games with an interactive, user-facing dashboard.
 
 <!---
