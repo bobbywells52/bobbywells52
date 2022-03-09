@@ -12,7 +12,7 @@ I'm Bobby, a computer and data scienticst with a passion for public interest tec
 - Check My Parlay is a full stack webapp that uses machine learning to predcit safe basketball bets and display data for the day's games with an interactive, user-facing dashboard.
 
 ---
-For a more detailed summary of my work take a look at my [resume](https://drive.google.com/file/d/1Qin-uI_AyxfYejQUBPsbDROPoK2NuJYM/view?usp=sharing).
+For a more detailed summary of my work please take a look at my [resume](https://drive.google.com/file/d/1Qin-uI_AyxfYejQUBPsbDROPoK2NuJYM/view?usp=sharing).
 <!---
 bobbywells52/bobbywells52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
