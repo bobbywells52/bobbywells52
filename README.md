@@ -9,7 +9,7 @@ I'm Bobby, a computer and data scienticst with a passion for public interest tec
 
 ### Personal projects:
 #### 🏀 [Check My Parlay](https://check-my-parlay.herokuapp.com/) 📊
-- Check My Parlay is a full stack webapp that uses machine learning to predcit safe basketball bets and display data for the day's games with an interactive, user-facing dashboard. A link to short slide deck explaing the app in further detail can be found [here](https://docs.google.com/presentation/d/1z_xn3-4bsgzCoXlPTebCviU5MA1YtEdrJG5tRmmyWyo/edit?usp=sharing)
+- Check My Parlay is a full stack webapp that predcits safe basketball bets and displays data for the day's games with an interactive, user-facing dashboard. A link to short slide deck explaing the app in further detail can be found [here](https://docs.google.com/presentation/d/1z_xn3-4bsgzCoXlPTebCviU5MA1YtEdrJG5tRmmyWyo/edit?usp=sharing)
 
 
 
