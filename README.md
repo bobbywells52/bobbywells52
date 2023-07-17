@@ -15,7 +15,7 @@ I'm Bobby, a computer and data scienticst with a passion for public interest tec
 
 
 ---
-For a more detailed summary of my work please take a look at my [resume](https://drive.google.com/file/d/1Qin-uI_AyxfYejQUBPsbDROPoK2NuJYM/view?usp=sharing).
+For a more detailed summary of my work please take a look at my [resume](https://drive.google.com/file/d/1bNcl974HPWox_RhT_gl2WOp9Yf8P6lo0/view?usp=sharing).
 <!---
 bobbywells52/bobbywells52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
