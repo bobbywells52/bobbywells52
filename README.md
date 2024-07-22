@@ -1,9 +1,10 @@
 # Hello 👨‍💻 🌎 👋
 
-I'm Bobby, a computer and data scienticst with a passion for public interest tech! With a strong academic and professional background in mathematics and programing, I'm more than comfortable working on both the data and the engineering side of the coin. 
+I'm Bobby, an experienced software engineer & data scienticst with a passion for public interest tech! With a strong professional and academic background in both mathematics and programing, I'm more than comfortable working on both the data and the engineering side of the coin. 
 
 
 ### Check out my previous civic tech work as a:
+#### ⚕️  [Software Engineer on the CDC's Simple Report](https://github.com/CDCgov/prime-simplereport/pulls?q=is%3Apr+is%3Amerged+author%3Abobbywells52)
 #### 🇺🇸 [Data Science Fellow at the US Census Bureau](https://github.com/codingitforward/cdfdemoday2021/blob/main/Bobby_Wells_Katie_Harris.pdf)
 #### 🚸 [Developer with the NMFTA](https://github.com/hliu12/nmfta-code-for-good)
 
