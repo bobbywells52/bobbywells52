@@ -1,6 +1,6 @@
 # Hello 👨‍💻 🌎 👋
 
-I'm Bobby, an experienced software engineer & data scientist with a passion for building software that helps make the world a better place! With a strong professional and academic background in public interest tech, programing, and mathematics I draw across a wide range of experience and disciplines to not only write code but provide a wholistic, human-first perspective to my work.
+I'm Bobby, an experienced software engineer & data scientist with a passion for building software that helps make the world a better place! With a strong professional and academic background in public interest tech, programing, and mathematics I draw across a wide range of experiences and disciplines to not only write code but provide a wholistic, human-first perspective to my work.
 
 ### Check out my previous civic tech work as a:
 #### ⚕️  [Software Engineer on the CDC's Simple Report](https://github.com/CDCgov/prime-simplereport/pulls?q=is%3Apr+is%3Amerged+author%3Abobbywells52)
