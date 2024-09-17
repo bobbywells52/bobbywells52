@@ -5,7 +5,7 @@ I'm Bobby, an experienced software engineer & data scientist with a passion for 
 ### Check out my previous civic tech work as a:
 #### ⚕️  [Software Engineer on the CDC's Simple Report](https://github.com/CDCgov/prime-simplereport/pulls?q=is%3Apr+is%3Amerged+author%3Abobbywells52)
 #### 🇺🇸 [Data Science Fellow at the US Census Bureau](https://github.com/codingitforward/cdfdemoday2021/blob/main/Bobby_Wells_Katie_Harris.pdf)
-#### 🚸 [Developer with the NMFTA](https://github.com/hliu12/nmfta-code-for-good)
+#### 🚸 [Technical lead with the NMFTA](https://github.com/hliu12/nmfta-code-for-good)
 
 <!---
 ### Personal projects:
