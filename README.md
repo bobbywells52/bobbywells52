@@ -15,7 +15,7 @@ I'm Bobby, an experienced software engineer & data scientist with a passion for 
 
 
 ---
-For a more detailed summary of my work please take a look at my [resume](https://drive.google.com/file/d/1bNcl974HPWox_RhT_gl2WOp9Yf8P6lo0/view?usp=sharing).
+For a more detailed summary of my work please take a look at my [resume](https://docs.google.com/document/d/e/2PACX-1vRlSl_6mUW46ugvz3HQQ4-H17AmQFgA7NiVgtL0qo4GUTY0wvvZxCB5YODDhYnlzg/pub).
 <!---
 bobbywells52/bobbywells52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
