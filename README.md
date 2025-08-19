@@ -21,10 +21,6 @@ Led technical initiatives for transportation and logistics projects with civic i
 
 #### 🏒 [NHL Radar](https://github.com/your-repo-link) 📊  
 Built an interactive analytics dashboard for tracking NHL player stats and team performance in real time. This project combines Node.js, TypeScript, and data visualization to create insights for hockey enthusiasts and analysts.
-
-#### 🏀 [Check My Parlay](https://check-my-parlay.herokuapp.com/) 📊  
-Full-stack webapp predicting safe basketball bets with an interactive, user-facing dashboard.
-
 ---
 
 For a more detailed overview of my work, check out my [resume](https://docs.google.com/document/d/e/2PACX-1vRlSl_6mUW46ugvz3HQQ4-H17AmQFgA7NiVgtL0qo4GUTY0wvvZxCB5YODDhYnlzg/pub).
